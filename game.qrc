@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/map.jpg</file>
+        <file>image/player.png</file>
+        <file>image/Spawn.png</file>
+        <file>image/start.jpg</file>
+        <file>image/Enemy.png</file>
+        <file>image/startbutton.png</file>
+        <file>image/menu.jpg</file>
+        <file>image/map2.jpg</file>
+        <file>image/Tower.png</file>
+        <file>image/TowerPlace1.png</file>
+        <file>../zwhttower/image/enemy1.jpg</file>
+    </qresource>
+</RCC>
